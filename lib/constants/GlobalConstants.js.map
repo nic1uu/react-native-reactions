@@ -1,0 +1,1 @@
+{"version":3,"file":"GlobalConstants.js","sourceRoot":"","sources":["../../src/constants/GlobalConstants.ts"],"names":[],"mappings":"AAAA,MAAM,eAAe,GAAG;IACtB,GAAG,EAAE,EAAE;IACP,GAAG,EAAE,EAAE;IACP,OAAO,EAAE,SAAS;IAClB,KAAK,EAAE,OAAO;IACd,OAAO,EAAE,SAAS;IAClB,WAAW,EAAE,aAAa;CAC3B,CAAC;AAEF,eAAe,eAAe,CAAC"}
